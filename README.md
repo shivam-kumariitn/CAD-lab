@@ -1,2 +1,2 @@
 # CAD-lab
-Assignment | code | 7th sem | IITBBS
+Dr. Mohammad Masiur Rahaman | Assignment | Julia | 7th sem | IITBBS
